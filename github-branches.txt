@@ -1,0 +1,4 @@
+theia@theia-morea:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-revert 938e631 Fix footer year in README.md from 2022 to 2023
+  bug-fix-typo   938e631 [origin/bug-fix-typo] Fix footer year in README.md from 2022 to 2023
+* main           dc368c3 [origin/main: ahead 2] Revert "Fix footer year in README.md from 2022 to 2023"
